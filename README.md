@@ -110,7 +110,7 @@ Like we mentioned in our project proposal, we used a modified Kanban tool to get
 
 In our Google Drive, we used multiple documents to keep track of the features we were rolling out, as well as the tasks. Not only did we have a Daily Work Log, which provided us with a complete and specific assessment of the day-to-day, but also a modified Kanban that combined Shipping, Refactoring and Priority into one table that could be easily viewed.
 
-![feature_flow.png]
+![](feature_flow.png)
 
 Additionally, the Sprint interviews gave us another view on how we were conducting development for that week, and that combined with the original workflow of an AGILE Scrum type workflow allowed us to quickly pivot and change directions for the development of this program to meet the needs of the next sprint interview or client interview.
 
