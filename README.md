@@ -15,7 +15,7 @@ For this project, we used Javascript as the main language of choice and the docu
 
 > **Files to check for proper documentation and code**
 > - []()
-> - []()
+> - [Club.js commenting, Mike](https://github.com/ayj-develops/server-master/blob/main/api/club.js)
 
 ### Why use AirBnB's style guide for JS?
 
