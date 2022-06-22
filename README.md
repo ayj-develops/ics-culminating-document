@@ -2,8 +2,8 @@
 
 ## **TOC**
 * [Documentation and Files](#documentation-and-files)
-	* [Why use AirBnB's style guide for JS?](#why-use-airbnb-s-style-guide-for-js-)
-	* [Why use JSDoc?](#why-use-jsdoc-)
+	* [Why use AirBnB's style guide for JS?](#why-use-airbnbs-style-guide-for-js)
+	* [Why use JSDoc?](#why-use-jsdoc)
 * [Demonstration of Class Learning](#demonstration-of-class-learning)
 	* [Demonstration of Modular Programming](#demonstration-of-modular-programming)
 	* [Demonstration of AGILE Development](#demonstration-of-agile-development)
