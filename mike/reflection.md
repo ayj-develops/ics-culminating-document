@@ -34,7 +34,7 @@ In greater detail, I learned specifically how to guide a team towards the overal
 
 These decisions were a great experience for me because I now have a greater ability in boiling down many goals and isolating the most important ones to reach for a specific period. During that time, I now realize that clear efficient communication is key to staying on top of things. So we had a lot of Discord calls as well as a face-to-face out of school meeting to go over the project requirements and where it was headed.
 
-Aside from these soft skills, I also learned how to better keep track of our daily work and improve my descriptions of what we did during that sprint or for those few days. In addition to that, I am now very familiar with how to keep track using project boards like Kanban and setting feature statuses such as 'Shipped', 'Pending refactor', 'Bug fix', 'Urgent' etc.
+Aside from these soft skills, I also learned how to better keep track of our daily work and improve my descriptions of what we did during that sprint or for those few days. In addition to that, I am now very familiar with how to keep track using AGILE project tools like Kanban and setting feature statuses such as 'Shipped', 'Pending refactor', 'Bug fix', 'Urgent' etc. The use of such an AGILE methodology allowed us to stay on top of every requirement and meeting points that were presented as next steps.
 
 ![](../feature_flow.png)
 
@@ -48,3 +48,10 @@ This made our work very efficient since everything was done in managable chunks 
 
 # What problems did you overcome?
 
+As for problems, there was a lot to say the least. Both of us were working with frameworks that were less than familiar to us so we had to learn the framework as we went along which led to a lot of problems.
+
+For example on the backend side, one of the recent problems was the format of the errors. While this did not break the server, it did not conform to our requirements for a RESTful API; since it has to return a JSON format. This in turn bypassed our Error Handler middleware which means it never returned valid status codes. The cause of that problem was actually MongoDB directly returning an error because of Schema side validation, so to solve that we removed any requirements in the Schema, and instead set it as our next step to "Write endpoint validation to filter request fields".
+
+Another problem was 
+
+As you might see, there were many problems we encountered but a lot of them was solved through reading the documentation (which was quite extensive) and also 
