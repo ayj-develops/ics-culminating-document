@@ -36,8 +36,15 @@ These decisions were a great experience for me because I now have a greater abil
 
 Aside from these soft skills, I also learned how to better keep track of our daily work and improve my descriptions of what we did during that sprint or for those few days. In addition to that, I am now very familiar with how to keep track using project boards like Kanban and setting feature statuses such as 'Shipped', 'Pending refactor', 'Bug fix', 'Urgent' etc.
 
+![](../feature_flow.png)
+
 Time management also goes hand in hand with project management because without being able to schedule and co-ordinate feature delivery on a set basis or time, we would not have been able to shift directions whenever we needed to, or roll out features. This would've impacted our efficiency and we definitely would not have been able to get to where we are right now without a detailed calendar and clear goals set day after day.
 
+Rather than have a larger goal like a weekly one to hit, we would instead use functional goals that define very specifically what we should be focusing on for those few days or for that day. For example, some of the goals were listed in our 'Next-steps' in our daily worklog which outlined the next things we should be focusing on. These goals were entirely functional meaning that they were specific instead of "start working on...". 
+
+![](../functional_goals.png)
+
+This made our work very efficient since everything was done in managable chunks over any period of time.
 
 # What problems did you overcome?
 
