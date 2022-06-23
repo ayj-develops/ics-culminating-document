@@ -24,12 +24,19 @@ In addition, Javascript has some things that are also only Javascript. Compariso
 
 The main takeaway from the language I learned was that it is incredibly flexible and high level. At least for me, I found it really easy to understand because it was so abstracted and quick to implement, hence a quicker development time and easier when we need to change directions.
  
+Some of the more niche things I learned through this project was dealing with RESTful APIs. This included writing them, documenting them, interacting with them, and building them in such a way that it would efficiently return data as well as make sure that the APIs themselves are self-explanatory. This directly ties in with my building up of knowledge for the framework Express.js and how to use modular programming to address these API endpoints.
 
-## Specific classes/libraries (in JS in this case)
+In addition to learning more about HTTP and RESTful APIs, I learned a lot about different databases as well and which one would be a good fit for our usecase. For example, rigid data would be suited best in SQL type databases like Postgresql, CockroachDB etc. while not as rigid and rapidly changable data should use SQLess databases like Firestore or MongoDB.
+
+As for additional classes and libraries, Javascript in this case, we used a lot of different open source libraries, each including many classes. Some of them include large frameworks like Express.js and React.js. Other smaller ones include Firebase, Firebase admin etc. All of those helped to build the application in the end, Firebase provided tools for us to use for authentication, while a dependency like mongoose provided an abstraction layer for when we're interacting with the database.
 
 ## Project management
 
+
+
 ## Time management
+
+
 
 # What problems did you overcome?
 
