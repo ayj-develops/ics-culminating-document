@@ -30,18 +30,14 @@ In addition to learning more about HTTP and RESTful APIs, I learned a lot about 
 
 As for additional classes and libraries, Javascript in this case, we used a lot of different open source libraries, each including many classes. Some of them include large frameworks like Express.js and React.js. Other smaller ones include Firebase, Firebase admin etc. All of those helped to build the application in the end, Firebase provided tools for us to use for authentication, while a dependency like mongoose provided an abstraction layer for when we're interacting with the database.
 
-## Project management
-
 In greater detail, I learned specifically how to guide a team towards the overall goal while achieving smaller ones along the way. For example, in the presence of upcoming meeting dates or checkpoints during our sprints, I learned to make specific decisions that would alter the course of the project short term to hit the specific goals that were required for those meetings or checkpoints.
 
 These decisions were a great experience for me because I now have a greater ability in boiling down many goals and isolating the most important ones to reach for a specific period. During that time, I now realize that clear efficient communication is key to staying on top of things. So we had a lot of Discord calls as well as a face-to-face out of school meeting to go over the project requirements and where it was headed.
 
 Aside from these soft skills, I also learned how to better keep track of our daily work and improve my descriptions of what we did during that sprint or for those few days. In addition to that, I am now very familiar with how to keep track using project boards like Kanban and setting feature statuses such as 'Shipped', 'Pending refactor', 'Bug fix', 'Urgent' etc.
 
-## Time management
-
+Time management also goes hand in hand with project management because without being able to schedule and co-ordinate feature delivery on a set basis or time, we would not have been able to shift directions whenever we needed to, or roll out features. This would've impacted our efficiency and we definitely would not have been able to get to where we are right now without a detailed calendar and clear goals set day after day.
 
 
 # What problems did you overcome?
 
-## How did you overcome them?
