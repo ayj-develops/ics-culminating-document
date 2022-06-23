@@ -32,7 +32,11 @@ As for additional classes and libraries, Javascript in this case, we used a lot 
 
 ## Project management
 
+In greater detail, I learned specifically how to guide a team towards the overall goal while achieving smaller ones along the way. For example, in the presence of upcoming meeting dates or checkpoints during our sprints, I learned to make specific decisions that would alter the course of the project short term to hit the specific goals that were required for those meetings or checkpoints.
 
+These decisions were a great experience for me because I now have a greater ability in boiling down many goals and isolating the most important ones to reach for a specific period. 
+
+Aside from these soft skills, I also learned how to better keep track of our daily work and improve my descriptions of what we did during that sprint or for those few days. In addition to that, I am now very familiar with how to keep track using project boards like Kanban and setting feature statuses such as 'Shipped', 'Pending refactor', 'Bug fix', 'Urgent' etc.
 
 ## Time management
 
